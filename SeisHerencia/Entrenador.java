@@ -1,4 +1,4 @@
-package SeisHerencia;
+package seisherencia;
 
 public class Entrenador extends Persona {
     private String idFederacion;

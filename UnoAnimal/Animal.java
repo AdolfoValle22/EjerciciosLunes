@@ -1,4 +1,4 @@
-package UnoAnimal;
+package unoanimal;
 
 public class Animal {
 private String nombre;

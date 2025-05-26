@@ -1,4 +1,4 @@
-package TresVehiculo;
+package tresvehiculo;
 
 public class Auto extends Vehiculo {
 

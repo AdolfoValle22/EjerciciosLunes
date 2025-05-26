@@ -1,4 +1,4 @@
-package SeisHerencia;
+package seisherencia;
 
 public class Masajista extends Persona {
     private String titulacion;

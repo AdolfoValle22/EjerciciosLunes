@@ -1,4 +1,4 @@
-package SeisHerencia;
+package seisherencia;
 
 public class Persona {
     private Integer id;

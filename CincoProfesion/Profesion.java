@@ -1,4 +1,4 @@
-package CincoProfesion;
+package cincoprofesion;
 
 public interface Profesion {
 

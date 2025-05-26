@@ -1,4 +1,4 @@
-package TresVehiculo;
+package tresvehiculo;
 
 public class Avion extends Vehiculo {
     public Avion(String marca, String modelo) {

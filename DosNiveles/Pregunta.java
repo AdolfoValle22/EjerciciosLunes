@@ -1,4 +1,4 @@
-package DosNiveles;
+package dosniveles;
 
 public class Pregunta {
     private String enunciado;

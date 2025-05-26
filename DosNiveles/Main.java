@@ -1,4 +1,4 @@
-package DosNiveles;
+package dosniveles;
 
 import java.util.Scanner;
 

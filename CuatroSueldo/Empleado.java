@@ -1,4 +1,4 @@
-package CuatroSueldo;
+package cuatrosueldo;
 
 public class Empleado extends Personal {
     private double bonoPorHora;

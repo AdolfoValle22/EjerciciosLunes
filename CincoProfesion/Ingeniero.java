@@ -1,4 +1,4 @@
-package CincoProfesion;
+package cincoprofesion;
 
 public class Ingeniero implements Profesion {
     private String nombre;

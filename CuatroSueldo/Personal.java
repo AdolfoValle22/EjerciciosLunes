@@ -1,4 +1,4 @@
-package CuatroSueldo;
+package cuatrosueldo;
 
 public abstract class Personal {
     private String nombre;
