@@ -10,7 +10,7 @@ public class Main {
         // Nivel 1: 4 preguntas
         System.out.println("=== Nivel 1 ===");
         Pregunta[] nivel1 = {
-            new Pregunta("¿Capital de Francia?", "París"),
+            new Pregunta("¿Capital de Francia?", "Paris"),
             new Pregunta("¿2 + 2 = ?", "4"),
             new Pregunta("¿Color del cielo en día despejado?", "Azul"),
             new Pregunta("¿Cuántos minutos tiene una hora?", "60")
